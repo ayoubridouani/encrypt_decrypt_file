@@ -12,6 +12,7 @@ And
 - to decrypt: $> ./output decrypt path_of_your_file
 
 
+
 to contact me: ridouaniayoub@gmail.com
 
 good luck

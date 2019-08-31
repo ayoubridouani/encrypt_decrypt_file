@@ -7,8 +7,7 @@ First you must be compile this program using gcc or other compiler ex:
 
 $> gcc encrypt_decrypt_file.c -lcrypto -o output
 
-
-And Also
+And 
 - to encrypt: $> ./output encrypt path_of_your_file
 - to decrypt: $> ./output decrypt path_of_your_file
 
